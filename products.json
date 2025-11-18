@@ -1,0 +1,142 @@
+[
+  {
+    "product_name":"Bed Sheets Queen Set",
+    "category":"Home & Kitchen",
+    "price":69.99,
+    "description":"Egyptian cotton",
+    "stock_quantity":140
+  },
+  {
+    "product_name":"Book: AI for Everyone",
+    "category":"Books",
+    "price":34.99,
+    "description":"Bestseller on AI",
+    "stock_quantity":190
+  },
+  {
+    "product_name":"Coffee Maker Deluxe",
+    "category":"Home & Kitchen",
+    "price":149.99,
+    "description":"12-cup programmable",
+    "stock_quantity":45
+  },
+  {
+    "product_name":"Cooking Pan Set",
+    "category":"Home & Kitchen",
+    "price":99.99,
+    "description":"Non-stick 3-piece set",
+    "stock_quantity":60
+  },
+  {
+    "product_name":"Face Cream Anti-Aging",
+    "category":"Beauty",
+    "price":49.99,
+    "description":"50ml premium formula",
+    "stock_quantity":220
+  },
+  {
+    "product_name":"Gaming Keyboard RGB",
+    "category":"Electronics",
+    "price":79.99,
+    "description":"Mechanical switches",
+    "stock_quantity":95
+  },
+  {
+    "product_name":"Kids Toy Robot",
+    "category":"Toys",
+    "price":39.99,
+    "description":"STEM learning toy",
+    "stock_quantity":150
+  },
+  {
+    "product_name":"Laptop Backpack",
+    "category":"Electronics",
+    "price":59.99,
+    "description":"15.6 inch laptop compatible",
+    "stock_quantity":180
+  },
+  {
+    "product_name":"Office Chair Ergonomic",
+    "category":"Furniture",
+    "price":299.99,
+    "description":"Lumbar support",
+    "stock_quantity":30
+  },
+  {
+    "product_name":"Organic Cotton T-Shirt",
+    "category":"Clothing",
+    "price":29.99,
+    "description":"100% organic cotton available in multiple colors",
+    "stock_quantity":320
+  },
+  {
+    "product_name":"Plant-Based Protein Powder",
+    "category":"Health",
+    "price":44.99,
+    "description":"2lb container",
+    "stock_quantity":180
+  },
+  {
+    "product_name":"Running Shoes Men's",
+    "category":"Clothing",
+    "price":89.99,
+    "description":"Professional running shoes",
+    "stock_quantity":120
+  },
+  {
+    "product_name":"Smart Watch Fitness",
+    "category":"Electronics",
+    "price":199.99,
+    "description":"Heart rate monitor",
+    "stock_quantity":85
+  },
+  {
+    "product_name":"Smartphone Case iPhone 14",
+    "category":"Electronics",
+    "price":19.99,
+    "description":"Shockproof protection",
+    "stock_quantity":500
+  },
+  {
+    "product_name":"Stainless Steel Water Bottle",
+    "category":"Home & Kitchen",
+    "price":24.99,
+    "description":"32oz insulated bottle",
+    "stock_quantity":200
+  },
+  {
+    "product_name":"Vitamin C Supplements",
+    "category":"Health",
+    "price":19.99,
+    "description":"90 capsules",
+    "stock_quantity":400
+  },
+  {
+    "product_name":"Winter Jacket Women's",
+    "category":"Clothing",
+    "price":129.99,
+    "description":"Waterproof and insulated",
+    "stock_quantity":75
+  },
+  {
+    "product_name":"Wireless Bluetooth Headphones",
+    "category":"Electronics",
+    "price":79.99,
+    "description":"Premium noise-cancelling headphones",
+    "stock_quantity":145
+  },
+  {
+    "product_name":"Wireless Mouse",
+    "category":"Electronics",
+    "price":29.99,
+    "description":"Ergonomic design",
+    "stock_quantity":250
+  },
+  {
+    "product_name":"Yoga Mat Premium",
+    "category":"Sports",
+    "price":49.99,
+    "description":"Extra thick 6mm mat",
+    "stock_quantity":85
+  }
+]
