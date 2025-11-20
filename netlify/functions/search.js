@@ -17,7 +17,7 @@ exports.handler = async (event, context) => {
         return { statusCode: 400, headers, body: JSON.stringify({ error: 'Search term required' }) };
     }
 
-    const caCert = fs.readFileSync(path.resolve(process.cwd(), 'ca.pem'));
+    const caCert = fs.readFileSync(path.resolve(__dirname, 'ca.pem'));
     let connection;
 
     try {
