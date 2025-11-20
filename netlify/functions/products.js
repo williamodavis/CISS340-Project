@@ -15,7 +15,7 @@ exports.handler = async (event, context) => {
     }
 
     // Read the Aiven CA certificate
-    const caCert = fs.readFileSync(path.resolve(process.cwd(), 'ca.pem'));
+    const caCert = fs.readFileSync(path.resolve(__dirname, 'ca.pem'));
 
     let connection;
 
